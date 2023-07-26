@@ -1,2 +1,30 @@
-@media only screen and (max-width: 600px) {
+@media (max-width: 992px) {
+  .Item-a {
+    height: 50px;
+  }
+  .item-a-image {
+    padding-left: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+  }
+  .title-a {
+    padding-top: 15px;
+    font-size: 17px;
+    margin: 0px 100px;
+  }
+  .item-a-a {
+    width: 840px;
+    justify-content: flex-start;
+  }
+  .menu {
+    gap: 10px;
+  }
+  .menu-ber {
+    color: #ffff;
+    font-size: 12px;
+    padding: 2px 7px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(79, 56, 111), rgb(132, 71, 110));
+  }
 }
