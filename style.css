@@ -1,8 +1,14 @@
 body {
   font-family: "Dosis", sans-serif;
 }
-.Iteme-a {
+.Item-a {
   background-color: aqua;
 }
-.iteme-a.1 {
+.item-a-1 {
+}
+.item-a-image {
+  padding-left: 170px;
+  padding-top: 20px;
+  height: 50px;
+  width: 50px;
 }
