@@ -38,10 +38,10 @@ body {
   text-decoration: none;
   font-size: 17px;
   font-weight: 700px;
-  color: #000000;
+  color: #ffff;
   padding: 2px 10px;
   border: 1px solid #530ff3;
   border-radius: 5px;
   transition: 0.5s;
-  background-image: linear-gradient(rgb(23, 226, 206), rgb(28, 92, 211));
+  background-image: linear-gradient(rgb(75, 197, 185), rgb(28, 92, 211));
 }

@@ -1,0 +1,31 @@
+@media (max-width: 600px) {
+  .Item-a {
+    height: 30px;
+  }
+  .item-a-image {
+    padding-left: 10px;
+    height: 30px;
+    width: 30px;
+    border-radius: 3px;
+  }
+  .title-a {
+    padding-top: 10px;
+    color: rgb(251, 0, 0);
+    font-size: 12px;
+    margin: 0px 50px;
+  }
+  .item-a-a {
+    width: 540px;
+  }
+  .menu {
+    margin-right: 10px;
+    gap: 10px;
+  }
+  .menu-ber {
+    color: #ffff;
+    font-size: 9px;
+    padding: 1.5px 5px;
+    border-radius: 2px;
+    background-image: linear-gradient(rgb(65, 151, 131), rgb(70, 100, 143));
+  }
+}

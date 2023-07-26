@@ -10,6 +10,7 @@
   }
   .title-a {
     padding-top: 15px;
+    color: rgba(0, 42, 255, 0.841);
     font-size: 17px;
     margin: 0px 100px;
   }
@@ -25,6 +26,6 @@
     font-size: 12px;
     padding: 2px 7px;
     border-radius: 3px;
-    background-image: linear-gradient(rgb(79, 56, 111), rgb(132, 71, 110));
+    background-image: linear-gradient(rgb(156, 133, 192), rgb(153, 78, 125));
   }
 }
