@@ -1,37 +1,39 @@
 body {
   font-family: "Dosis", sans-serif;
+  padding: none;
+  margin: none;
 }
 .Item-a {
-  background-color: aqua;
+  background-color: rgb(198, 238, 246);
+  height: 80px;
 }
 .item-a-image {
-  padding-left: 170px;
-  padding-top: 20px;
-  height: 50px;
-  width: 50px;
+  padding-left: 70px;
+  height: 80px;
+  width: 80px;
+  border-radius: 8px;
 }
 .item-a-a {
   width: 1140px;
   margin: auto;
   display: flex;
-  align-items: center;
   justify-content: space-between;
 }
 .menu {
   list-style: none;
   display: flex;
+  gap: 40px;
   align-items: center;
-  gap: 20px;
-  padding: 40px 0;
 }
 .menu-ber {
-  font-size: 16px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-decoration: none;
-  font-weight: 600;
-  font-family: sans-serif;
-  color: #1df42f;
+  font-size: 17px;
+  font-weight: 700px;
+  color: #000000;
   padding: 5px 10px;
-  border: 1px solid #1df42f;
+  border: 1px solid #530ff3;
   border-radius: 5px;
   transition: 0.5s;
+  background-image: linear-gradient(rgb(23, 226, 206), rgb(28, 92, 211));
 }
