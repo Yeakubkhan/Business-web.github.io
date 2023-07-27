@@ -15,7 +15,7 @@
     margin: 0px 50px;
   }
   .item-a-a {
-    width: 540px;
+    justify-content: stretch;
   }
   .menu {
     margin-right: 10px;
@@ -27,5 +27,28 @@
     padding: 1.5px 5px;
     border-radius: 2px;
     background-image: linear-gradient(rgb(65, 151, 131), rgb(70, 100, 143));
+  }
+
+  .item-b {
+    flex-direction: column;
+    padding: 5%;
+  }
+  .item-b-a {
+    width: 100%;
+  }
+  .titel-b {
+    font-size: 16px;
+  }
+  .Pragraph-a {
+    font-size: 9px;
+    margin-top: 13px;
+  }
+  .item-b-b {
+    gap: 20px;
+    margin-top: 15px;
+  }
+  .item-b-c-a {
+    align-items: center;
+    padding-top: 30px;
   }
 }
