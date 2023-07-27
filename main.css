@@ -59,4 +59,42 @@
     height: 260px;
     width: 250px;
   }
+
+  .item-c {
+    padding: 4%;
+  }
+  .item-c-a-a {
+    height: 200px;
+    width: 300px;
+  }
+  .item-c-b {
+    padding-left: 10px;
+  }
+  .item-c-b-a {
+    font-size: small;
+  }
+  .titel-c {
+    font-size: 22px;
+    padding-top: 5px;
+  }
+  .Pragraph-b {
+    padding-top: 6px;
+    font-size: 12px;
+  }
+  .item-c-b-d {
+    padding-left: 10px;
+    font-size: 12px;
+    padding-top: 5px;
+  }
+  .item-c-b-d-a {
+    padding: 1px;
+  }
+  .item-c-b-e {
+    margin-top: 7px;
+  }
+  .item-c-b-e-a {
+    border: 2px solid rgb(230, 113, 113);
+    border-radius: 3px;
+    font-size: 12px;
+  }
 }

@@ -31,7 +31,7 @@
 
   .item-b {
     flex-direction: column;
-    padding: 5%;
+    padding: 4%;
   }
   .item-b-a {
     width: 100%;
@@ -50,5 +50,25 @@
   .item-b-c-a {
     align-items: center;
     padding-top: 30px;
+  }
+
+  .item-c {
+    flex-direction: column-reverse;
+  }
+  .item-c-a {
+    width: 100%;
+  }
+  .item-c-a-a {
+    padding-top: 30px;
+  }
+  .titel-c {
+    font-size: 16px;
+    padding-top: 0px;
+  }
+  .item-c-b {
+    padding-top: 30px;
+  }
+  .Pragraph-b {
+    font-size: 9px;
   }
 }
