@@ -55,7 +55,7 @@
   .item-b-c {
     margin-right: 4%;
   }
-  .item-b-c-a {
+  .image-a {
     height: 260px;
     width: 250px;
   }
@@ -63,7 +63,7 @@
   .item-c {
     padding: 4%;
   }
-  .item-c-a-a {
+  .image-b {
     height: 200px;
     width: 300px;
   }
@@ -96,5 +96,22 @@
     border: 2px solid rgb(230, 113, 113);
     border-radius: 3px;
     font-size: 12px;
+  }
+
+  .item-d {
+    padding: 4%;
+    padding-top: 30px;
+  }
+  .titel-d {
+    color: rgb(147, 27, 233);
+  }
+  .item-d-a {
+    flex-direction: column-reverse;
+  }
+  .item-d-a-a {
+    width: 100%;
+  }
+  .image-f {
+    padding: 50px 70px;
   }
 }

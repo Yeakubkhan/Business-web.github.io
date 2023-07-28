@@ -21,6 +21,7 @@ body {
   color: rgb(76, 28, 164);
 }
 .item-a-a {
+  width: 1140px;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -85,7 +86,7 @@ body {
 .item-b-c {
   margin-right: 8%;
 }
-.item-b-c-a {
+.image-a {
   height: 460px;
   width: 450px;
 }
@@ -98,7 +99,7 @@ body {
 .item-c-a {
   width: 50%;
 }
-.item-c-a-a {
+.image-b {
   height: 400px;
   width: 600px;
 }
@@ -143,4 +144,121 @@ body {
 .item-c-b-e-a:hover {
   background-color: blue;
   border: none;
+}
+
+.item-d {
+  padding: 7%;
+  padding-top: 50px;
+  background-color: rgb(240, 250, 247);
+}
+.titel-d {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(108, 108, 204);
+}
+.titel-e {
+  text-align: center;
+  font-size: 32px;
+  padding: 15px;
+}
+.Pragraph-c {
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+}
+.item-d-a {
+  display: flex;
+}
+.item-d-a-a {
+  width: 50%;
+}
+.item-d-a-a-a {
+  display: flex;
+  box-shadow: 10px 10px 30px gray;
+  padding: 20px 25px;
+  border-radius: 5px;
+  margin: 5% 15%;
+  background-color: #ffff;
+}
+.item-d-a-a-a-a {
+  width: 30%;
+}
+.image-c {
+  height: 90px;
+  width: 100px;
+  border-radius: 3px;
+  align-content: center;
+}
+.item-d-a-a-a-b {
+  width: 70%;
+}
+.titel-e-a {
+  padding-left: 10px;
+}
+.Pragraph-c-a {
+  padding-left: 10px;
+  padding-top: 8px;
+}
+.item-d-a-a-b {
+  display: flex;
+  box-shadow: 10px 10px 30px gray;
+  padding: 20px 25px;
+  border-radius: 5px;
+  margin: 5% 15%;
+  background-color: #ffff;
+}
+.item-d-a-a-b-a {
+  width: 30%;
+}
+.image-d {
+  height: 90px;
+  width: 100px;
+  border-radius: 3px;
+  align-content: center;
+}
+.item-d-a-a-b-b {
+  width: 70%;
+}
+.titel-e-b {
+  padding-left: 10px;
+}
+.Pragraph-c-b {
+  padding-left: 10px;
+  padding-top: 8px;
+}
+.item-d-a-a-c {
+  display: flex;
+  box-shadow: 10px 10px 30px gray;
+  padding: 20px 25px;
+  border-radius: 5px;
+  margin: 5% 15%;
+  background-color: #ffff;
+}
+.item-d-a-a-c-a {
+  width: 30%;
+}
+.image-e {
+  height: 90px;
+  width: 100px;
+  border-radius: 3px;
+  align-content: center;
+}
+.item-d-a-a-c-b {
+  width: 70%;
+}
+.titel-e-c {
+  padding-left: 10px;
+}
+.Pragraph-c-c {
+  padding-left: 10px;
+  padding-top: 8px;
+}
+.item-d-a-b {
+  width: 50%;
+}
+.image-f {
+  padding-top: 5%;
+  border-radius: 5px;
+  height: 500px;
+  width: 510px;
 }
